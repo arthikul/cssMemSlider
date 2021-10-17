@@ -48,7 +48,7 @@
 }
 
 .memspan {
-    position: absolute;
+    position: relative;
     color: black;
     top: 350px;
 }
